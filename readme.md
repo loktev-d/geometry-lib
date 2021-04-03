@@ -1,6 +1,6 @@
 ## Getting started
 
-To use geometry-lib you need to import main.ts file inot your project.
+To use geometry-lib you need to import main.ts file into your project.
 
 ```typescript
 import { circle, triangle, rectangle } from "./main";
